@@ -1,6 +1,6 @@
 # Weather Data Analysis using Machine Learning (AIMLMonth2023 - Minor Project )
 ## Description
-This project involves the analysis of historical weather data using machine learning techniques. The goal is to explore the patterns, trends, and relationships within the weather dataset and develop predictive models for temperature and precipitation.
+This project involves the analysis of historical weather data using machine learning techniques. The goal is to explore the patterns, trends, and relationships within the weather dataset and develop analytic model for temperature and precipitation.
 ## Dependencies and Setup
 - Python 3.x
 - Pandas
